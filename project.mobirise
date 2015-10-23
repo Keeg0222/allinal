@@ -1,0 +1,287 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "version": "2.0"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "analytics": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "color": "#2c2c2c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": "{PROJECT_IMAGES}logo.png",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.allinal.tk/about\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOADS</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "ALLINAL MEDIA",
+          "text": "The opporating system of the internet! The help you need! Her and now!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Downloads</a>"
+        },
+        {
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Graphical Designs",
+          "text": "<p>Allinal has provided a well and open place for you to get nice and easy graphical and industrial designs that are as easy to obtain and download easy!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Past Projects</a>",
+          "_styles": {
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Web Development",
+          "text": "<p>Allinal brings a wide range in web development and people can use our development dashboard for them to use their website! You can customize your website and can make your website custom just for your self!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Portfolio</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Music Productions",
+          "text": "<p>Allinal has a wide range in music production and catagories! We work with you and with your ideas to produce the best music! We work with our customers to produce the best music!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Music Lists</a>",
+          "_styles": {
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Allinal did very well with the music production and i wish i could share it with all! They did well working with us to make it sound even better! For the 1$ plan it turned out very well! I would very well recommend the production to anyone that needs good sounds! They did very well and i think it is wery usefull!”</p>",
+              "authorName": "Rebecca S.",
+              "authorBio": "Alberta, ON"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Allinal did very well with the music production and i wish i could share it with all! They did well working with us to make it sound even better! For the 1$ plan it turned out very well! I would very well recommend the production to anyone that needs good sounds! They did very well and i think it is wery usefull!”</p>",
+              "authorName": "Rebecca S.",
+              "authorBio": "Alberta, CA"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“I would like to reccomend the web design tool for you if you are looking for a good easy way to start a website! They work with wordpress. Thats hard to find these days and all so hands down the best company for web design! Thanks guys and i wish you the best with your company!”</p>",
+              "authorName": "Adam R.",
+              "authorBio": "Florida, US"
+            }
+          ],
+          "_anchor": "testimonials1-6",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "2",
+            "showName": true,
+            "showBio": true
+          },
+          "header": "What to other people say?",
+          "_styles": {
+            ".mbr-section__header": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-9",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a><br>",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

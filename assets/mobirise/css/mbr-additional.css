@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-7 .mbr-brand__name {
+	font-size: 16px;
+}
+#menu-7.mbr-navbar--stuck .mbr-navbar__section {
+	background: #2c2c2c;
+}
+#menu-7 .mbr-navbar__section {
+}
+#menu-7 .mbr-brand__name a {
+	font-family: 'Ubuntu', sans-serif;
+}
+#menu-7 .mbr-navbar__items a {
+	font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-1 H2 {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#msg-box3-1 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#msg-box3-3 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#msg-box3-3 H2 {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#msg-box3-4 H2 {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#msg-box3-4 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#testimonials1-6 .mbr-section__header {
+	font-family: 'Ubuntu', sans-serif;
+}
+#testimonials1-6 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+#social-buttons1-9 .mbr-header__text {
+	font-family: 'Ubuntu', sans-serif;
+}
+#footer1-2 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
