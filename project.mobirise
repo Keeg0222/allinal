@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "version": "2.0"
   },
   "pages": {
@@ -177,62 +177,38 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"musicproduction.html\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"musicproduction.html\" data-toolbar=\"-mbrBtnMove\">Music Lists</a>"
         },
         {
-          "items": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">“Allinal did very well with the music production and i wish i could share it with all! They did well working with us to make it sound even better! For the 1$ plan it turned out very well! I would very well recommend the production to anyone that needs good sounds! They did very well and i think it is wery usefull!”</p>",
-              "authorName": "Rebecca S.",
-              "authorBio": "Alberta, CA"
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-80",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            {
-              "text": "<p class=\"mbr-reviews__p\">“I would like to reccomend the web design tool for you if you are looking for a good easy way to start a website! They work with wordpress. Thats hard to find these days and all so hands down the best company for web design! Thanks guys and i wish you the best with your company!”</p>",
-              "authorName": "Adam R.",
-              "authorBio": "Florida, US"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
-            }
-          ],
-          "_name": "testimonials1",
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Game Development",
+          "text": "<p>Welcome to allinal game development! We work to give you free and fun games! You can find us on Gamejolt, Steam and Itch.io. we will gladly provide free and fun games to you!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"gamedevelopment.html\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://gamejolt.com/profile/allinal/1023723\" data-toolbar=\"-mbrBtnMove\">GameJolt</a>",
           "_styles": {
-            ".mbr-section__header": {
-              "font-family": "'Ubuntu', sans-serif",
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif !important",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
-          },
-          "testimonial": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">“Allinal did very well with the music production and i wish i could share it with all! They did well working with us to make it sound even better! For the 1$ plan it turned out very well! I would very well recommend the production to anyone that needs good sounds! They did very well and i think it is wery usefull!”</p>",
-              "authorName": "Rebecca S.",
-              "authorBio": "Alberta, CA"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">“I would like to reccomend the web design tool for you if you are looking for a good easy way to start a website! They work with wordpress. Thats hard to find these days and all so hands down the best company for web design! Thanks guys and i wish you the best with your company!”</p>",
-              "authorName": "Adam R.",
-              "authorBio": "Florida, US"
-            }
-          ],
-          "_anchor": "testimonials1-6",
-          "_params": {
-            "count": "2",
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
-            "bgColor": "#444444",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
-          },
-          "header": "What to other people say?"
+          }
         },
         {
           "_name": "social-buttons1",
@@ -1525,7 +1501,7 @@
     },
     "theunreal.html": {
       "settings": {
-        "title": "Allinal | The Ubreal"
+        "title": "Allinal | The Unreal"
       },
       "components": [
         {
@@ -1960,6 +1936,128 @@
             }
           },
           "_anchor": "footer1-73",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+        }
+      ]
+    },
+    "gamedevelopment.html": {
+      "settings": {
+        "title": "Allinal | Game Development"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-brand__name a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-81",
+          "_params": {
+            "color": "#2c2c2c",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": "{PROJECT_IMAGES}logo.png",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_anchor": "header1-82",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "ALLINAL MEDIA",
+          "text": "The opporating system of the internet! The help you need! Here and now!",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"About.html\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"downloads.html\" data-toolbar=\"-mbrBtnMove\">Downloads</a>"
+        },
+        {
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-84",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Game Development",
+          "text": "<p>Welcome to allinal game development! We work to make video games that you dont have to pay for! Our game developers dont get payed and they just want you to enjoy the games!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read More</a>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-86",
+          "text": "<p>We are wokring hard to make games for the people that dont have enough money to play many other games! Maybe you have money but your just looking for a fun game. Well, we have many games you can download and play! They will all be free but we do take donations! We hope that you enjoy and please leave a rating on our Gamejolt or our http://itch.io/</p><p><br></p><p>Thanks Everyone!</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Game Development Team!<br></p>"
+        },
+        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-87",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://allinal.itch.io/\" data-toolbar=\"-mbrBtnMove\">Itch.io</a><a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"http://gamejolt.com/profile/allinal/1023723\" data-toolbar=\"-mbrBtnMove\">GameJolt</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "footer1-83",
           "_params": {
             "bgImageRadio": false,
             "parallax": true,

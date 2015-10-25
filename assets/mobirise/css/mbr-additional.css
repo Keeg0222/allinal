@@ -43,10 +43,10 @@
 #msg-box3-4 P {
 	font-family: 'Ubuntu', sans-serif !important;
 }
-#testimonials1-6 .mbr-section__header {
-	font-family: 'Ubuntu', sans-serif;
+#msg-box3-80 H2 {
+	font-family: 'Ubuntu', sans-serif !important;
 }
-#testimonials1-6 P {
+#msg-box3-80 P {
 	font-family: 'Ubuntu', sans-serif !important;
 }
 #social-buttons1-9 .mbr-header__text {
@@ -307,5 +307,25 @@
 	font-family: 'Ubuntu', sans-serif;
 }
 #footer1-73 P {
+	font-family: 'Ubuntu', sans-serif !important;
+}
+
+
+
+#menu-81 .mbr-brand__name {
+	font-size: 16px;
+}
+#menu-81.mbr-navbar--stuck .mbr-navbar__section {
+	background: #2c2c2c;
+}
+#menu-81 .mbr-navbar__section {
+}
+#menu-81 .mbr-brand__name a {
+	font-family: 'Ubuntu', sans-serif;
+}
+#menu-81 .mbr-navbar__items a {
+	font-family: 'Ubuntu', sans-serif;
+}
+#footer1-83 P {
 	font-family: 'Ubuntu', sans-serif !important;
 }
