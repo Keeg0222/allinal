@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Webdevelopment.html",
     "version": "2.0"
   },
   "pages": {
@@ -44,7 +44,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -113,11 +113,13 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             },
             "H2": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "msg-box3-3",
@@ -178,6 +180,18 @@
         },
         {
           "_name": "msg-box3",
+          "_styles": {
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
+            }
+          },
           "_anchor": "msg-box3-80",
           "_params": {
             "bgImageRadio": false,
@@ -198,17 +212,7 @@
           },
           "title": "Game Development",
           "text": "<p>Welcome to allinal game development! We work to give you free and fun games! You can find us on Gamejolt, Steam and Itch.io. we will gladly provide free and fun games to you!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"gamedevelopment.html\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://gamejolt.com/profile/allinal/1023723\" data-toolbar=\"-mbrBtnMove\">GameJolt</a>",
-          "_styles": {
-            "H2": {
-              "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            },
-            "P": {
-              "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"gamedevelopment.html\" data-toolbar=\"-mbrBtnMove\">Read More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://gamejolt.com/profile/allinal/1023723\" data-toolbar=\"-mbrBtnMove\">GameJolt</a>"
         },
         {
           "_name": "social-buttons1",
@@ -241,7 +245,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -255,7 +260,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -294,7 +299,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -371,7 +376,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -385,7 +391,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -424,7 +430,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -493,7 +499,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -507,7 +514,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -546,7 +553,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -612,7 +619,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -626,7 +634,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -665,7 +673,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -788,7 +796,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -802,7 +811,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -841,7 +850,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -966,7 +975,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-2",
@@ -980,7 +990,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1019,7 +1029,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1098,7 +1108,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-41",
@@ -1112,7 +1123,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1151,7 +1162,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1231,25 +1242,25 @@
           "price1": "2",
           "period1": "per month",
           "list1": "<ul><li><b>Basic </b>HTML</li><li><b>Service </b>ADS</li><li><b>.allinal.tk </b>Sub domain</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-success\">DEMO LINK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "title2": "BUSINESS",
           "currency2": "$",
           "price2": "5",
           "period2": "per month",
           "list2": "<ul><li><b>HTML &amp; CSS</b></li><li><b>Service </b>ADS</li><li><b>.allinal.tk </b>Sub domain</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-success\">DEMO LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "title3": "PREMIUM",
           "currency3": "$",
           "price3": "10",
           "period3": "per month",
           "list3": "<ul><li><b>HTML &amp; CSS</b></li><li><b>No </b>ADS</li><li><b>.allinal.tk </b>Sub domain</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-success\">DEMO LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "20",
           "period4": "per month",
           "list4": "<ul><li><b>Any Coding Language</b></li><li><b>No </b>ADS</li><li><b>.tk </b>Domain</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-success\">DEMO LINK</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>"
         },
         {
           "_name": "content1",
@@ -1281,7 +1292,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-44",
@@ -1295,7 +1307,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1334,7 +1346,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1369,7 +1381,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-47",
@@ -1383,7 +1396,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1422,7 +1435,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1481,7 +1494,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-54",
@@ -1495,7 +1509,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1534,7 +1548,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1591,6 +1605,32 @@
           "text": "People are aweosme 2015 - End Of October."
         },
         {
+          "_name": "header3",
+          "_anchor": "header3-86",
+          "title": "Ultimate Fails Octiber - 2015",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Posted 10/24/2015"
+        },
+        {
+          "_styles": {},
+          "image": "{PROJECT_IMAGES}slide3.jpg",
+          "_name": "video2",
+          "_anchor": "video2-87",
+          "_params": {
+            "video": {
+              "url": "https://www.youtube.com/embed/doDRrvSXJSk?rel=0&autoplay=0&loop=0",
+              "loop": false,
+              "autoplay": false,
+              "width": 1280,
+              "height": 720
+            },
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_name": "msg-box3",
           "_anchor": "msg-box3-66",
           "_params": {
@@ -1639,7 +1679,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-63",
@@ -1653,7 +1694,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1692,7 +1733,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1766,7 +1807,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-70",
@@ -1780,7 +1822,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1819,7 +1861,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -1900,7 +1942,7 @@
           "_name": "content4",
           "_anchor": "content4-77",
           "_params": {
-            "columns": "4",
+            "columns": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "{PROJECT_IMAGES}bg3.jpg",
@@ -1916,8 +1958,8 @@
             "showTitles": true,
             "showCaptions": true
           },
-          "title1": "Zepher315",
-          "caption1": "We have partnered to help Zepher315. We help him by produciong better quality time when your on his channel! I hope you enjoy!",
+          "title1": "Raint",
+          "caption1": "Raint is a forum that you can add to your site and make it better. You can have a great forum with raint and you can do it perfect! I hope that you enjoy!",
           "title2": "TheUnreal",
           "caption2": "We are proud to bring up! We partnered with TheUnreal to make the best videos we can so that you can enjoy free videos!",
           "title3": "Ninty Nine Lives",
@@ -1932,7 +1974,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-73",
@@ -1946,7 +1989,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     },
@@ -1985,7 +2028,7 @@
             "showButtons": true
           },
           "logo": "{PROJECT_IMAGES}logo.png",
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://allinal.tk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALLINAL</a>",
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.tk\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Staff.html\">STAFF</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"About.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"projects.html\">PROJECTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"partnership.html\">PARTNERSHIPS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://allinal.boards.net/#_=_\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUMS</a></li>"
         },
@@ -2054,7 +2097,8 @@
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif !important",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff !important"
             }
           },
           "_anchor": "footer1-83",
@@ -2068,7 +2112,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Allinal, All rights reserved. | &nbsp;<a href=\"http://music.allinal.tk\" target=\"_blank\">Music</a> | <a href=\"http://keeganbourque.tk\" target=\"_blank\">Keegan</a> | <a href=\"http://getsitecontrol.com\" target=\"_blank\">Admin</a>&nbsp;| <a href=\"downloads.html\">Downloads</a><br>"
+          "text": "Copyright (c) 2015 Allinal, All rights reserved. | Website Made By: &nbsp;<a href=\"theunreal.html\">TheUnreal</a><br>"
         }
       ]
     }
